@@ -1,0 +1,52 @@
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.application
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Rubiks_Cube_Solver.resources
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Resources.resources
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks virtual.vbproj.GenerateResource.Cache
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.application
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V4.3 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.application
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Rubiks_Cube_Solver.resources
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Resources.resources
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks virtual.vbproj.GenerateResource.Cache
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V4.3.2 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.application
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.application
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Rubiks_Cube_Solver.resources
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Resources.resources
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks virtual.vbproj.GenerateResource.Cache
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V5.PRE RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.application
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.application
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.exe
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.pdb
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\bin\Release\V4 Rubiks Cube Solver.xml
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Rubiks_Cube_Solver.resources
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\RCS.Resources.resources
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks virtual.vbproj.GenerateResource.Cache
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.exe.manifest
+D:\Dropbox\Rubiks VB\V5 RCS\V4 Rubiks virtual\obj\x86\Release\V4 Rubiks Cube Solver.application
